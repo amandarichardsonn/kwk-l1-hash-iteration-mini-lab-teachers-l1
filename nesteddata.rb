@@ -5,3 +5,5 @@ KlossyPosse = [
  ["Sara", "Naquaiviera", "Zoe", "Karlie Kloss"],
  ["Vlad", "Tierraney", "Janice", "Amanda"]
 ]
+
+puts KlossyPosse[0][2]
