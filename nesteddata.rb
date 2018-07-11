@@ -9,8 +9,8 @@
 # puts KlossyPosse[3][3]
 
 Television = {
-  "TV Shows" => ["The Office", "Gossip Girl", "The middle", "The Flash"]
+  "TV Shows" => ["The Office", "Gossip Girl", "The middle", "The Flash"],
   "Movies" => ["Mulan", "The Incredibles", "The Bee Movie", "Star Wars"]
 }
 
-puts Television["TV Shows"]
+puts Television["Movies"]
