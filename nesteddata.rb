@@ -6,4 +6,4 @@ KlossyPosse = [
  ["Vlad", "Tierraney", "Janice", "Amanda"]
 ]
 
-puts KlossyPosse[0][2]
+puts KlossyPosse[3][3]
