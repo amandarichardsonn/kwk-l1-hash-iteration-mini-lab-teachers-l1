@@ -13,4 +13,4 @@ Television = {
   "Movies" => ["Mulan", "The Incredibles", "The Bee Movie", "Star Wars"]
 }
 
-puts Television
+puts Television["Movies"][1]
